@@ -1,0 +1,7 @@
+C:\Users\Витёк\source\repos\СуторминУчетЗаявок\СуторминУчетЗаявок\obj\Debug\СуторминУчетЗаявок.csproj.AssemblyReference.cache
+C:\Users\Витёк\source\repos\СуторминУчетЗаявок\СуторминУчетЗаявок\obj\Debug\AddEditPage.g.cs
+C:\Users\Витёк\source\repos\СуторминУчетЗаявок\СуторминУчетЗаявок\obj\Debug\MainWindow.g.cs
+C:\Users\Витёк\source\repos\СуторминУчетЗаявок\СуторминУчетЗаявок\obj\Debug\Oznakomlenie.g.cs
+C:\Users\Витёк\source\repos\СуторминУчетЗаявок\СуторминУчетЗаявок\obj\Debug\App.g.cs
+C:\Users\Витёк\source\repos\СуторминУчетЗаявок\СуторминУчетЗаявок\obj\Debug\СуторминУчетЗаявок_MarkupCompile.cache
+C:\Users\Витёк\source\repos\СуторминУчетЗаявок\СуторминУчетЗаявок\obj\Debug\СуторминУчетЗаявок_MarkupCompile.lref
