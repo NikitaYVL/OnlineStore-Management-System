@@ -14,7 +14,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace СуторминУчетЗаявок
-{
+{/// обнова
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
     /// </summary>
